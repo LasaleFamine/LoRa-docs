@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: LoRa Docs
+logo: /assets/img/logo.png
+description: LoRa Docs index.
+# google_analytics:
